@@ -28,6 +28,7 @@ dependencies:
   fab_circular_menu:
   liquid_ui:
   shrink_sidemenu:
+  google_maps_flutter:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -51,7 +52,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/dashboardIcon/notification.png
+    - assets/dashboardIcon/
   #   - images/a_dot_ham.jpeg
 
 
